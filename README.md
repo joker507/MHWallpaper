@@ -10,10 +10,11 @@
 
 
 ## 使用：
-0. 下载Wallpape_share1.zip文件并解压
-1. 在此目录下存放: 视频.mp4
-2. 打开程序 双击Wallpaper.exe（有声版本）、双击Wallpaper_noaudio.exe（无声版本）、延迟有声版本（Wallpaper_slppe2）
-3. 关闭：关闭ffplay终端即可
+0. 下载文件并解压：https://github.com/joker507/MHWallpaper/releases/download/V0.0/MHWallpaper.zip
+1. 百度云地址：链接: https://pan.baidu.com/s/14G3W-uclcSsN7JbCqb82sw 提取码: crqn
+2. 在此目录下存放: 视频.mp4
+3. 打开程序 双击Wallpaper.exe（有声版本）、双击Wallpaper_noaudio.exe（无声版本）、延迟有声版本（Wallpaper_slppe2）
+4. 关闭：关闭ffplay终端即可
 
 ## 更换视频：
 视频.mp4
